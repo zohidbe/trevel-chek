@@ -15,7 +15,7 @@ let kongilocharSomda = kongilocharYevroda * yevroKursi;
 let umumiyHarajatlar = biletSomda + mehmonxonaSomda + kongilocharSomda;
 
 if (alisherPul >= umumiyHarajatlar) {
-    console.log("Oq yo’l, Alisher!");
+    console.log("Oq yo’l, mijoz!");
 } else {
     console.log("sizni pulingiz yetmaydi hurmatli mijoz.");
 }
